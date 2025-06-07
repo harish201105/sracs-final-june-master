@@ -1,0 +1,36 @@
+Error checking file frozen status: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+code: "ERR_NETWORK"
+config: Object
+message: "Network Error"
+name: "AxiosError"
+request: XMLHttpRequest
+stack: "AxiosError: Network Error↵ at XMLHttpRequest.handleError (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/node_modules/.vite/deps/axios.js?v=b60257ad:1591:14)↵ at Axios.request (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/node_modules/.vite/deps/axios.js?v=b60257ad:2119:41)↵ at async checkFrozenStatus (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/src/components/files.jsx:114:24)"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+
+Error fetching remarks: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+code: "ERR_NETWORK"
+config: Object
+message: "Network Error"
+name: "AxiosError"
+request: XMLHttpRequest
+stack: "AxiosError: Network Error↵ at XMLHttpRequest.handleError (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/node_modules/.vite/deps/axios.js?v=b60257ad:1591:14)↵ at Axios.request (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/node_modules/.vite/deps/axios.js?v=b60257ad:2119:41)↵ at async fetchRemarks (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/src/components/files.jsx:129:24)"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+
+Error checking file frozen status: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+code: "ERR_NETWORK"
+config: Object
+message: "Network Error"
+name: "AxiosError"
+request: XMLHttpRequest
+stack: "AxiosError: Network Error↵ at XMLHttpRequest.handleError (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/node_modules/.vite/deps/axios.js?v=b60257ad:1591:14)↵ at Axios.request (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/node_modules/.vite/deps/axios.js?v=b60257ad:2119:41)↵ at async checkFrozenStatus (https://e9204549-684d-4c43-9cab-6eabac41fcec-00-1daalxsswv66d.sisko.replit.dev/src/components/files.jsx:114:24)"
+get stack: ƒ ()
+set stack: ƒ ()
+[[Prototype]]: Object
+

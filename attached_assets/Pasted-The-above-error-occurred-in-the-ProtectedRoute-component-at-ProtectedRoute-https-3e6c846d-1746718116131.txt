@@ -1,0 +1,22 @@
+The above error occurred in the <ProtectedRoute> component:
+
+    at ProtectedRoute (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/src/utils/authMiddleware.js:52:34)
+    at RenderedRoute (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/react-router-dom.js?v=b60257ad:4089:5)
+    at Routes (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/react-router-dom.js?v=b60257ad:4559:5)
+    at Router (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/react-router-dom.js?v=b60257ad:4502:15)
+    at BrowserRouter (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/react-router-dom.js?v=b60257ad:5248:5)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+useState is not defined
+at ProtectedRoute (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/src/utils/authMiddleware.js:55:43)
+at renderWithHooks (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:11548:26)
+at mountIndeterminateComponent (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:14926:21)
+at beginWork (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:15914:22)
+at beginWork$1 (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:19753:22)
+at performUnitOfWork (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:19198:20)
+at workLoopSync (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:19137:13)
+at renderRootSync (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:19116:15)
+at recoverFromConcurrentError (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:18736:28)
+at performSyncWorkOnRoot (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:18879:28)

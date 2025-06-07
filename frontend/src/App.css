@@ -1,0 +1,138 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  height: 3em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 1em rgba(255, 255, 255, 0.6));
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 1.5em;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.5em;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Custom styles for Indian Railways app */
+body {
+  background-color: #f5f7fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ir-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+button, .ir-button, input[type="submit"] {
+  background: linear-gradient(to right, #0A3871, #0CAFFF);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover, .ir-button:hover, input[type="submit"]:hover {
+  background: linear-gradient(to right, #0CAFFF, #0A3871);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button:disabled, .ir-button:disabled, input[type="submit"]:disabled {
+  background: linear-gradient(to right, #ccc, #999);
+  cursor: not-allowed;
+  transform: none;
+}
+
+.ir-button-secondary {
+  background-color: white;
+  color: #0A3871;
+  border: 1px solid #0A3871;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.ir-button-secondary:hover {
+  background-color: #f0f5ff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ir-heading {
+  color: #0A3871;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.ir-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.ir-table th {
+  background-color: #0A3871;
+  color: white;
+  font-weight: 500;
+  text-align: left;
+  padding: 0.75rem 1rem;
+}
+
+.ir-table td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.ir-table tr:last-child td {
+  border-bottom: none;
+}
+
+.ir-table tr:nth-child(even) {
+  background-color: #f9fafb;
+}
+
+.ir-table tr:hover {
+  background-color: #f0f5ff;
+}

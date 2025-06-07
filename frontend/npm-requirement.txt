@@ -1,0 +1,7 @@
+# npm requirements for the React project
+
+# Install React Router DOM
+npm install react-router-dom
+
+# Install React Icons
+npm install react-icons

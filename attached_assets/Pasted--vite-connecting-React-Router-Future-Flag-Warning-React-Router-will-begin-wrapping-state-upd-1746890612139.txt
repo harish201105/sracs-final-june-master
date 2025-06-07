@@ -1,0 +1,77 @@
+[vite] connecting...
+⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_starttransition.
+⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_relativesplatpath.
+[vite] connected.
+Error updating assignments: 
+AxiosError {message: "Request failed with status code 400", name: "AxiosError", code: "ERR_BAD_REQUEST", config: {…}, request: XMLHttpRequest, …}
+
+at t.value (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:17465)
+at new t (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:12630)
+at t.value (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:32766)
+at https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/__replco/static/devtools/eruda/3.2.3/eruda.js:2:34400
+navigate is not defined
+at onClick (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/src/components/files.jsx:217:26)
+at HTMLUnknownElement.callCallback2 (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3674:22)
+at Object.invokeGuardedCallbackDev (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3699:24)
+at invokeGuardedCallback (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3733:39)
+at invokeGuardedCallbackAndCatchFirstError (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3736:33)
+at executeDispatch (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7014:11)
+at processDispatchQueueItemsInOrder (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7034:15)
+at processDispatchQueue (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7043:13)
+at dispatchEventsForPlugins (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7051:11)
+at https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7174:20
+navigate is not defined
+at onClick (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/src/components/files.jsx:217:26)
+at HTMLUnknownElement.callCallback2 (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3674:22)
+at Object.invokeGuardedCallbackDev (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3699:24)
+at invokeGuardedCallback (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3733:39)
+at invokeGuardedCallbackAndCatchFirstError (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3736:33)
+at executeDispatch (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7014:11)
+at processDispatchQueueItemsInOrder (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7034:15)
+at processDispatchQueue (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7043:13)
+at dispatchEventsForPlugins (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7051:11)
+at https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7174:20
+navigate is not defined
+at onClick (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/src/components/files.jsx:217:26)
+at HTMLUnknownElement.callCallback2 (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3674:22)
+at Object.invokeGuardedCallbackDev (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3699:24)
+at invokeGuardedCallback (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3733:39)
+at invokeGuardedCallbackAndCatchFirstError (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3736:33)
+at executeDispatch (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7014:11)
+at processDispatchQueueItemsInOrder (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7034:15)
+at processDispatchQueue (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7043:13)
+at dispatchEventsForPlugins (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7051:11)
+at https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7174:20
+navigate is not defined
+at onClick (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/src/components/files.jsx:217:26)
+at HTMLUnknownElement.callCallback2 (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3674:22)
+at Object.invokeGuardedCallbackDev (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3699:24)
+at invokeGuardedCallback (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3733:39)
+at invokeGuardedCallbackAndCatchFirstError (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3736:33)
+at executeDispatch (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7014:11)
+at processDispatchQueueItemsInOrder (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7034:15)
+at processDispatchQueue (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7043:13)
+at dispatchEventsForPlugins (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7051:11)
+at https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7174:20
+navigate is not defined
+at onClick (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/src/components/files.jsx:217:26)
+at HTMLUnknownElement.callCallback2 (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3674:22)
+at Object.invokeGuardedCallbackDev (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3699:24)
+at invokeGuardedCallback (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3733:39)
+at invokeGuardedCallbackAndCatchFirstError (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3736:33)
+at executeDispatch (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7014:11)
+at processDispatchQueueItemsInOrder (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7034:15)
+at processDispatchQueue (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7043:13)
+at dispatchEventsForPlugins (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7051:11)
+at https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7174:20
+navigate is not defined
+at onClick (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/src/components/files.jsx:217:26)
+at HTMLUnknownElement.callCallback2 (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3674:22)
+at Object.invokeGuardedCallbackDev (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3699:24)
+at invokeGuardedCallback (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3733:39)
+at invokeGuardedCallbackAndCatchFirstError (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:3736:33)
+at executeDispatch (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7014:11)
+at processDispatchQueueItemsInOrder (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7034:15)
+at processDispatchQueue (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7043:13)
+at dispatchEventsForPlugins (https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7051:11)
+at https://3e6c846d-198d-491e-aa10-c3ad809af755-00-3o4nh2nr3but.sisko.replit.dev/node_modules/.vite/deps/chunk-GKJBSOWT.js?v=b60257ad:7174:20

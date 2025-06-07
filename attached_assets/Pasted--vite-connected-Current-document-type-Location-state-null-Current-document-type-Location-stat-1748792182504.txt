@@ -1,0 +1,48 @@
+[vite] connected.
+Current document type: 
+Location state: null
+Current document type: 
+Location state: null
+Error fetching remarks: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error fetching departments: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error fetching departments: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error checking file frozen status: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error fetching remarks: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error checking file frozen status: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Files by type response: 
+Array [{…}]
+Current document type: special-letter
+Location state: 
+Object {fileName: "spl letter.pdf", elements: Array(3), documentType: "special-letter", startDate: "", endDate: "", …}
+Current document type: special-letter
+Location state: 
+Object {fileName: "spl letter.pdf", elements: Array(3), documentType: "special-letter", startDate: "", endDate: "", …}
+Error fetching remarks: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error fetching departments: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error fetching departments: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error checking file frozen status: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error fetching remarks: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
+
+Error checking file frozen status: 
+AxiosError {message: "Network Error", name: "AxiosError", code: "ERR_NETWORK", config: {…}, request: XMLHttpRequest}
